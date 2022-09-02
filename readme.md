@@ -353,6 +353,7 @@ Deepfakes are gaining popularity quick, and they can be used in a bunch of diffe
 A lot of what was learned in the images section can be applied for physical location osint. You can view the area online and look for strategical spots that might be interesting to you.
 
 - [geolocatethis](https://github.com/musafir-py/geolocatethis) is a cli tool to find two places next to each other.
+- [GeoGuessr Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) is a guide that helps you locate places based on images.
 
 ### Satellite images
 
