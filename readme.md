@@ -419,6 +419,7 @@ The deep web has a lot of websites that can help you find data breaches and othe
 OSINT frameworks are basically a collection of tools in one place. Some of them are:
 
 - [OSINT framework](https://osintframework.com/)
+- [Michael Bazzell's OSINT tools](https://inteltechniques.com/tools/index.html)
 - Recon-ng
 - Maltego
 - Hunchly
