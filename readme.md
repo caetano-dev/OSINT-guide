@@ -423,6 +423,7 @@ OSINT frameworks are basically a collection of tools in one place. Some of them 
 - Recon-ng
 - Maltego
 - Hunchly
+- [Metaosint](https://metaosint.github.io/)
 - [Ghunt](https://github.com/mxrch/GHunt)
 - [Holehe](https://github.com/megadose/holehe)
 
