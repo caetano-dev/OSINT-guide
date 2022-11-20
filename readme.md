@@ -262,6 +262,7 @@ A full list can be found [here](https://developer.twitter.com/en/docs/twitter-ap
 Other options:
 
 - [socialbearing](https://socialbearing.com/) can search based on geolocation.
+- [shadowban](https://shadowban.yuzurisa.com/) is used to check if an account has been shadowbanned.
 - [twitonomy](https://twitonomy.com/)
 - [tweetbeaver](https://tweetbeaver.com/)
 - [spoonbill](https://spoonbill.io/)
