@@ -139,6 +139,7 @@ If you are looking for a specific person, a good way to start is to look for the
 Other options: - [ufind](https://ufind.name/) - [officialUSA](https://www.officialusa.com/names/Jack-Smith-ii/) - [fastpeoplesearch](https://fastpeopesearch.com/) - [fastbackgroundcheck](https://fastbackgroundcheck.com/) - [webmii](https://webmii.com/) - [thatsthem](https://thatsthem.com/) - [xlek](https://xlek.com/) aka cubib - [blackbookonline](https://www.blackbookonline.info/) - [pipl](https://pipl.com/) - paid/personal information required - [findagrave](https://findagrave.com/) - [ancestry](https://www.ancestry.com/search/collections/60525/)
 
 Family trees - [FamilySearch](https://www.familysearch.org/tree/overview) - [FamilyTree](https://www.familytree.com/) - [Geni](https://www.geni.com/)
+IPs - [iknowwhatyoudownload](https://iknowwhatyoudownload.com/en/peer/) shows a list of torrents downloaded for an IP
 
 ### For criminal records
 
