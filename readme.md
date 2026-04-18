@@ -166,7 +166,7 @@ Some data you can extract from websites are: technologies used, IP addresses, wh
 
 - [CentralOps](https://centralops.net/co/) can be used to find **a lot of information** about the host. It is possible to find sensitive information on who is hosting the website.
 - [dnslytics](https://dnslytics.com/reverse-ip) Reverse IP search. If someone hosts their own server, you can use it to find other registered websites.
-- If you want to check for website changes, you can use [changetower](https://changetower.com/)
+- If you want to check for website changes, you can use [changetower](https://changetower.com/) or [Snaplert](https://snaplert.com/) (AI-powered visual diffs with element-level zone picker, free during beta)
 - [ahrefs](https://ahrefs.com/backlink-checker) is a website that allows you to look for backlinks
 - Shodan can also be used to look for vulnerabilities, if you have an IP address.
 - Some websites might have some subdomains online that shouldn’t be available to the public. You can use search operators to look for some subdomains like “dev”, “forums”, “admin”, “adm”, “VPN” by subtracting www and adding inurl: URL. You can use sublist3r, OWASP Amass and [crt.sh](https://crt.sh/) to list subdomains of a website
