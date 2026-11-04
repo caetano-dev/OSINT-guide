@@ -313,6 +313,7 @@ Reddit is a popular place on the internet where a lot of people post a wide rang
 ### Snapchat
 
 Snapchat has a [map](https://map.snapchat.com/). You can look for snaps in a certain area.
+[SnapDataHub](https://snapdatahub.com/) shows public creator stats such as subscribers and Spotlight performance.
 
 ### LinkedIn
 
