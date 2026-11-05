@@ -299,6 +299,7 @@ Most of the Instagram OSINT is covered in the photos section, but there are some
 Other options:
 
 - [codeofaninja intagram id](https://tools.codeofaninja.com/find-instagram-user-id)
+- [IGDataHub](https://igdatahub.com/) shows a public Instagram profile's followers, engagement rate and top posts.
 
 ### YouTube
 
