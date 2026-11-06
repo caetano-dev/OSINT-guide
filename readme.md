@@ -266,6 +266,7 @@ Other options:
 - [shadowban](https://shadowban.yuzurisa.com/) is used to check if an account has been shadowbanned.
 - [twitonomy](https://twitonomy.com/)
 - [tweetbeaver](https://tweetbeaver.com/)
+- [twtData](https://twtdata.com/twitter-trends/) shows which topics trended on X in a given country or city on a past date.
 - [spoonbill](https://spoonbill.io/)
 - [tinfoleak](https://tinfoleak.com/)
 - [botometer](https://botometer.osome.iu.edu/)
