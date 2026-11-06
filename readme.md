@@ -306,6 +306,10 @@ Other options:
 
 When investigating YouTube videos, it is useful to do some reverse image search on the content we are watching. In order to do that, we can use some tools like the [citizen evidence amnesty usa](https://citizenevidence.amnestyusa.org/) website to pull extra data from the video and get thumbnails to search.
 
+### TikTok
+
+[TKMetrics](https://tkmetrics.com/creators/) shows a public TikTok account's followers, engagement rate, average plays and top videos.
+
 ### Reddit
 
 Reddit is a popular place on the internet where a lot of people post a wide range of different topics.
