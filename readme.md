@@ -391,6 +391,7 @@ Other options:
 - A good technique is to simply go to the Gmail login and see if the email exists. You can even click on “I forgot my password” and see if there are other emails linked to that account.
 - If you want to search for emails related to companies and its employees, you can check its name on [hunter.io](https://hunter.io/). This website can give you emails and show you their domain patterns.
 - In order to verify if the emails are valid, you can use [email-checker](https://email-checker.net/validate).
+- [looot](https://looot.ai/) finds and verifies work emails and phone numbers by name and company domain through one API, paid per call.
 
 Other options:
 
